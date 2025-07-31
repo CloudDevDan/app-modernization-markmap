@@ -94,10 +94,10 @@ By making this project open, I hope others can benefit from this format too - wh
 
 ### Screenshots
 <p align="center">
-  <img src="./img/overview.jpg" alt="Tracker Screenshot" width="800" />
+  <img src="./img/overview.png" alt="Tracker Screenshot" width="800" />
 </p>
 <p align="center">
-  <img src="./img/expanded.jpg" alt="Tracker Screenshot - Expanded Nodes" width="800" />
+  <img src="./img/expanded.png" alt="Tracker Screenshot - Expanded Nodes" width="800" />
 </p>
 
 ---
