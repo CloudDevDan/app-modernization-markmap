@@ -1,6 +1,6 @@
-# 🗺️ Dan’s Microsoft App Modernization Framework Markmap
+# 🗺️ Dan’s Microsoft App Modernization Guidance for Azure Markmap
 
-Welcome to **Dan’s Microsoft App Modernization Framework Markmap** – a structured, visual reference built on top of Microsoft's official [App Modernization Framework](https://learn.microsoft.com/en-us/azure/app-modernization-guidance/) within the [Azure Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/).
+Welcome to **Dan’s Microsoft App Modernization Guidance for Azure Markmap** – a structured, visual reference built on top of Microsoft's official [App Modernization Guidance for Azure](https://learn.microsoft.com/en-us/azure/app-modernization-guidance/) within the [Azure Cloud Adoption Framework (CAF)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/).
 
 This project helps you visualise how to assess, plan, modernise, and optimise legacy applications using Microsoft technologies – especially within Azure. Whether you're dealing with monolithic on-prem systems or scaling modern cloud-native architectures, this map provides a clear, end-to-end structure for transforming your applications with confidence.
 
@@ -27,7 +27,7 @@ Explore my other related projects:
 
 ## 🔍 What Is Microsoft App Modernization (CAF)?
 
-The **Microsoft App Modernization** framework is an adoption scenario within the Cloud Adoption Framework (CAF) that helps organisations modernise their applications for the cloud using a structured, phased approach.
+The **App Modernization Guidance for Azure** is an adoption scenario within the Cloud Adoption Framework (CAF) that helps organisations modernise their applications for the cloud using a structured, phased approach.
 
 This guidance is organised into seven key stages:
 
@@ -47,11 +47,11 @@ You can explore the full guidance and all checklist items visually through this 
 
 ### 🔎 App Modernization vs CAF vs WAF – How They Fit Together
 
-Yes – the **App Modernization Framework** is part of Microsoft's broader **Cloud Adoption Framework (CAF)**. Here's how it all fits:
+Yes – the **App Modernization Guidance for Azure** is part of Microsoft's broader **Cloud Adoption Framework (CAF)**. Here's how it all fits:
 
 - 🧭 **CAF (Cloud Adoption Framework)** is Microsoft's main playbook for adopting Azure. It covers everything from strategy and planning to governance, security, and operations. One of its key stages is **Modernize**, where app modernization lives.
   
-- 🏗️ The **App Modernization Framework** is the **detailed guidance that supports that Modernize phase**. It provides the step-by-step advice, tools, best practices, and platform options to modernise legacy applications – from .NET to SAP – using Azure services.
+- 🏗️ The **App Modernization Guidance for Azure** is the **detailed guidance that supports that Modernize phase**. It provides the step-by-step advice, tools, best practices, and platform options to modernise legacy applications – from .NET to SAP – using Azure services.
 
 - 🧱 **WAF (Well-Architected Framework)** is different – it’s all about **technical quality**. It helps you design and run workloads that are secure, reliable, cost-optimised, performant, and operationally excellent. You can apply WAF principles **during and after modernization**.
 
@@ -64,7 +64,7 @@ Yes – the **App Modernization Framework** is part of Microsoft's broader **Clo
 So, in short:
 
 - **CAF** = the master cloud journey
-- **App Mod Framework** = the guide for modernizing your apps (part of CAF)
+- **App Mod Guidance** = the guide for modernizing your apps (part of CAF)
 - **WAF** = quality checks to make sure your solutions are well-architected
 
 

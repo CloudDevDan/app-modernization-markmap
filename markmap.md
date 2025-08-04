@@ -1,5 +1,5 @@
 ---
-title: Dan’s Microsoft App Modernization Framework Markmap
+title: Dan’s Microsoft App Modernization Guidance for Azure Markmap
 markmap:
   colorFreezeLevel: 2
   activeNode:
@@ -10,7 +10,7 @@ markmap:
 
 ---
 
-# Microsoft App Modernization Framework
+# Microsoft App Modernization Guidance for Azure
 
 <!-- Taken from: https://learn.microsoft.com/en-us/azure/app-modernization-guidance/ -->
 
