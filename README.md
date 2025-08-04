@@ -67,6 +67,15 @@ So, in short:
 - **App Mod Guidance** = the guide for modernizing your apps (part of CAF)
 - **WAF** = quality checks to make sure your solutions are well-architected
 
+---
+
+### ✍️ Related Blog Post
+
+If you're interested in a high-level overview of what the **App Modernisation Guidance** is, why it matters, and how it fits into Microsoft's broader cloud strategy (CAF + WAF), check out my write-up:
+
+📖 [Microsoft App Modernisation Guidance for Azure – Plus: A New Visual Explorer](https://daniel.mcloughlin.cloud/microsoft-app-modernization-guidance-for-azure?showSharer=true)
+
+> This article explains the what and why behind the guidance, introduces the visual explorer, and includes references to CAF, WAF, and AI-powered upgrade tools like GitHub Copilot.
 
 <!-- ---
 
